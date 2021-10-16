@@ -3,9 +3,7 @@ An e-commerce company wants to segment its customers and determine marketing str
 
 The company believes that marketing activities specific to customer segments that exhibit common behaviors will increase revenue.
 
-For example, retaining customers that are very lucrative for the company.
-
-It is desired to organize different campaigns for new customers and different campaigns for new customers.
+For example, it is desired to organize different campaigns for new customers and different campaigns to retain customers, which are very profitable for the company.
 
 The dataset named Online Retail II includes the sales of a UK-based online store between 01/12/2009 and 09/12/2011.
 
